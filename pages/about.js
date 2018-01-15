@@ -4,7 +4,7 @@ import { H1, H2, P } from "../components/styles";
 
 let Index = () => (
   <div>
-    <H2>Hi! I'm Nael</H2>
+    <H2>Hi! I'm Nael :wave:</H2>
     <P>
       In my current position, I'm responsible for the entire development process
       starting with sales meetings and creating estimates to developing
